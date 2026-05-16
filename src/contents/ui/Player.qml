@@ -10,6 +10,7 @@ QtObject {
         property var preferredPlayersConnections: []
 
         onRowsInserted: () => updatePlayerIndex(this)
+        onRowsRemoved: () => updatePlayerIndex(this)
         onPreferredSourceIdentitiesChanged: () => updatePlayerIndex(this)
 
         function updatePlayerIndex(model) {
