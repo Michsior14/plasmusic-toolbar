@@ -60,11 +60,10 @@ msgid ""
 "playback controls are aligned to the right (or bottom); The song text can be "
 "positioned based on user preference."
 msgstr ""
-"El widget ocupa toda la anchura disponible en el panel horizontal (o la "
-"altura en el panel vertial); el icono está alineado a la izquierda (o "
-"encima) y los controles de reproducción están alineados a la derecha (o "
-"debajo); El texto de la canción puede ser posicionado basado en las "
-"preferencias del usuario."
+"El widget ocupa toda la anchura disponible en el panel horizontal (o la altura en "
+"el panel vertial); el icono está alineado a la izquierda (o encima) y los "
+"controles de reproducción están alineados a la derecha (o debajo); El texto de la canción puede "
+"ser posicionado basado en las preferencias del usuario."
 
 #: src/contents/ui/config/Compact.qml:71 src/contents/ui/config/Full.qml:62
 #, kde-format
@@ -196,8 +195,7 @@ msgstr "Esconder el nombre del álbum para sencillos:"
 msgid ""
 "If the album name and the track title match, the album name will be hidden."
 msgstr ""
-"Si el nombre del álbum y de la canción coinciden, el del álbum no se "
-"mostrará."
+"Si el nombre del álbum y de la canción coinciden, el del álbum no se mostrará."
 
 #: src/contents/ui/config/Compact.qml:327
 #, kde-format
@@ -222,8 +220,7 @@ msgstr "Estilo del texto truncado:"
 #: src/contents/ui/config/Compact.qml:353
 #, kde-format
 msgid "Works only when the text is not scrolling and in the initial position"
-msgstr ""
-"Sólo funciona cuando el texto no está deslizándose y en la posición inicial"
+msgstr "Sólo funciona cuando el texto no está deslizándose y en la posición inicial"
 
 #: src/contents/ui/config/Compact.qml:362
 #, kde-format
@@ -313,9 +310,7 @@ msgstr "Colores de la portada del álbum"
 #: src/contents/ui/config/Compact.qml:507
 #, kde-format
 msgid "Use album cover as icon should be checked for background to work."
-msgstr ""
-"Utilizar portada del álbum como icono debería estar marcado para que el "
-"fondo funcione."
+msgstr "Utilizar portada del álbum como icono debería estar marcado para que el fondo funcione."
 
 #: src/contents/ui/config/Compact.qml:518
 #, kde-format
@@ -410,8 +405,8 @@ msgid ""
 "When enabled, playback controls are spread across the full width of the "
 "widget. When disabled, they are grouped together in the center."
 msgstr ""
-"Cuando esté activado, los controles de reproducción se expanden por todo el "
-"ancho del widget. Cuando esté desactivado, se agrupan en el centro."
+"Cuando esté activado, los controles de reproducción se expanden por todo el ancho del "
+"widget. Cuando esté desactivado, se agrupan en el centro."
 
 #: src/contents/ui/config/Full.qml:167
 #, kde-format
@@ -505,9 +500,9 @@ msgid ""
 "If two or more players are playing at the same time, the widget will choose "
 "the one that started playing first."
 msgstr ""
-"El reproductor será elegido automáticamente basándose en la canción en "
-"reproducción. Si hay dos o más reproductores reproduciendo al mismo tiempo, "
-"el widget elegirá el que empezara a reproducir primero."
+"El reproductor será elegido automáticamente basándose en la canción en reproducción. "
+"Si hay dos o más reproductores reproduciendo al mismo tiempo, el widget elegirá "
+"el que empezara a reproducir primero."
 
 #: src/contents/ui/config/General.qml:54
 #, kde-format
@@ -532,10 +527,10 @@ msgid ""
 "players that are currently running, if you can't find the one you want, open "
 "the player application and reload the list with reload button."
 msgstr ""
-"Siempre mostrar información del reproductor seleccionado, si no está activo "
-"el widget será ocultado. En el desplegable puedes elegir entre todos los "
-"reproductores activos, si no puedes encontrar el que buscas, abre la "
-"aplicación del reproductor y recarga la lista con el botón de recarga."
+"Siempre mostrar información del reproductor seleccionado, si no está activo el "
+"widget será ocultado. En el desplegable puedes elegir entre todos los "
+"reproductores activos, si no puedes encontrar el que buscas, abre "
+"la aplicación del reproductor y recarga la lista con el botón de recarga."
 
 #: src/contents/ui/config/General.qml:121
 #, kde-format
